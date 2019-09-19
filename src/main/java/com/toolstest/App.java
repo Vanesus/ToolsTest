@@ -15,7 +15,7 @@ public class App {
     
     
     public void metodo(){
-    	if(true)
+    	if(name != null)
     		System.out.println(name);
     	else
     		System.out.println("otro");
