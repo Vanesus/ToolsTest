@@ -14,8 +14,7 @@ public class App {
         
     }
     
-    public void metodo()
-    {
+    public void metodo(){
         if(true){
             if(true){
                 if(true){
