@@ -18,5 +18,6 @@ public class App {
     	if(true)
     		System.out.println(name);
     	else
+    		System.out.println("otro");
     }
 }
