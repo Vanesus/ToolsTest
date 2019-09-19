@@ -16,8 +16,6 @@ public class App {
     
     
     public void metodo(){
-        if(true){
-        	System.out.println(name);  
-        }
+    	System.out.println(name);  
     }
 }
